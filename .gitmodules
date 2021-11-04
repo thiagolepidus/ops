@@ -37,3 +37,6 @@
 [submodule "plugins/importexport/crossref"]
 	path = plugins/importexport/crossref
 	url = https://github.com/pkp/crossref-ops.git
+[submodule "plugins/generic/dataverse"]
+	path = plugins/generic/dataverse
+	url = https://github.com/thiagolepidus/dataversePlugin.git
